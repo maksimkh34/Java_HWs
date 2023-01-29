@@ -1,0 +1,20 @@
+янв. 29, 2023 10:00:56 PM Functions getLogger
+INFO: Logger initialized. 
+янв. 29, 2023 10:01:01 PM Main main
+INFO: Got new op: 5*7
+янв. 29, 2023 10:01:01 PM Main main
+INFO: Trying op +
+янв. 29, 2023 10:01:01 PM Main main
+INFO: Trying op -
+янв. 29, 2023 10:01:01 PM Main main
+INFO: Trying op /
+янв. 29, 2023 10:01:01 PM Main main
+INFO: Trying op %
+янв. 29, 2023 10:01:01 PM Main main
+INFO: Trying op *
+янв. 29, 2023 10:01:01 PM Main main
+INFO: Operation is: *
+янв. 29, 2023 10:01:01 PM Main main
+INFO: Got numbers: [5] and [7]... 
+янв. 29, 2023 10:01:01 PM Main main
+INFO: Calculated! 
